@@ -2,35 +2,29 @@
 
 ### Aspiring Computer Engineer | MERN Stack Developer | Google Developer Student Clubs Core Team Member
 
-Welcome to my GitHub profile! I'm a passionate computer engineering student at Gujarat Technological University, expected to graduate in April 2026. Here's a glimpse into my journey so far:
+Welcome to my GitHub profile! I'm a passionate computer engineering student at Gujarat Technological University, expected to graduate in April 2026. Here's an overview of my journey:
 
 ## 🌟 Google Developer Student Clubs Core Team Member
-As a proud core team member of Google Developer Student Clubs (DSC), I've been collaborating with fellow students to apply Google technologies in real-world projects. This role has been instrumental in fostering learning and innovation.
+As a core team member of Google Developer Student Clubs (DSC), I collaborate with fellow students to apply Google technologies in real-world projects. This role has been instrumental in fostering learning and innovation.
 
 ## 💻 Web Development Projects
-I'm proficient in the MERN stack (MongoDB, Express, React, Node.js), and I’ve developed and deployed several web applications, including:
-- **Wanderlust**: A web app that provides travel recommendations.
-- **Hospital Resource Management**: An application designed to optimize medical supplies allocation.
+I’m proficient in the MERN stack (MongoDB, Express, React, Node.js) and have developed and deployed several web applications, including:
+- **Wanderlust**: A web app for travel recommendations.
+- **Hospital Resource Management**: An application to optimize medical supplies allocation.
 
 ## 🏆 Hackathons and Competitions
-I actively engage in hackathons and tech competitions, including Hackout'23, where I earned certification for creating a web app that uses AI/ML to deliver personalized health and fitness advice.
-
+I actively participate in hackathons and tech competitions. At Hackout'23, I earned certification for creating a web app.
 ## 💼 Web Development Internship at Code Casa
-During my one-month internship at Code Casa, I contributed to creating engaging and responsive websites using HTML, CSS, JavaScript, and Bootstrap. I collaborated with a dynamic team, ensuring our projects met industry best practices and standards, with a focus on user interface and user experience design.
+During my one-month internship at Code Casa, I contributed to building responsive websites using HTML, CSS, JavaScript, and Bootstrap. I collaborated with a team to ensure our projects followed industry best practices with a focus on user interface and experience design.
 
 ## 🎓 Educational Background
-I'm pursuing a Bachelor of Engineering degree in Computer Engineering. My studies have provided me with a solid foundation in:
-- Programming languages
-- Data structures and algorithms
-- Database management
-
-I also have a fervent interest in AI/ML and enjoy exploring the latest technologies.
+I’m pursuing a Bachelor of Engineering degree in Computer Engineering, providing me with a solid foundation in programming, data structures, algorithms, and database management. I also have a keen interest in AI/ML.
 
 ## 🌍 My Vision
-I'm driven by a vision to use technology, especially AI/ML, to drive innovation and solve complex challenges in sectors like healthcare and finance. I believe in leveraging technology's transformative potential to improve global well-being.
+I'm driven by a vision to use technology, especially AI/ML, to drive innovation and solve complex challenges in sectors like healthcare and finance. I believe in technology's transformative potential to improve global well-being.
 
 ## 🔍 Let's Connect!
-I'm eager to expand my skill set, explore fresh opportunities, and collaborate with fellow tech enthusiasts. Let's connect and share ideas to drive meaningful change through technology! 🚀
+I'm eager to expand my skills, explore new opportunities, and collaborate with fellow tech enthusiasts. Let's connect and share ideas to drive meaningful change through technology! 🚀
 
 
 
