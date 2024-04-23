@@ -1,3 +1,38 @@
+# Hello, I'm Resmit Dholariya! 👋
+
+### Aspiring Computer Engineer | MERN Stack Developer | Google Developer Student Clubs Core Team Member
+
+Welcome to my GitHub profile! I'm a passionate computer engineering student at Gujarat Technological University, expected to graduate in April 2026. Here's a glimpse into my journey so far:
+
+## 🌟 Google Developer Student Clubs Core Team Member
+As a proud core team member of Google Developer Student Clubs (DSC), I've been collaborating with fellow students to apply Google technologies in real-world projects. This role has been instrumental in fostering learning and innovation.
+
+## 💻 Web Development Projects
+I'm proficient in the MERN stack (MongoDB, Express, React, Node.js), and I’ve developed and deployed several web applications, including:
+- **Wanderlust**: A web app that provides travel recommendations.
+- **Hospital Resource Management**: An application designed to optimize medical supplies allocation.
+
+## 🏆 Hackathons and Competitions
+I actively engage in hackathons and tech competitions, including Hackout'23, where I earned certification for creating a web app that uses AI/ML to deliver personalized health and fitness advice.
+
+## 💼 Web Development Internship at Code Casa
+During my one-month internship at Code Casa, I contributed to creating engaging and responsive websites using HTML, CSS, JavaScript, and Bootstrap. I collaborated with a dynamic team, ensuring our projects met industry best practices and standards, with a focus on user interface and user experience design.
+
+## 🎓 Educational Background
+I'm pursuing a Bachelor of Engineering degree in Computer Engineering. My studies have provided me with a solid foundation in:
+- Programming languages
+- Data structures and algorithms
+- Database management
+
+I also have a fervent interest in AI/ML and enjoy exploring the latest technologies.
+
+## 🌍 My Vision
+I'm driven by a vision to use technology, especially AI/ML, to drive innovation and solve complex challenges in sectors like healthcare and finance. I believe in leveraging technology's transformative potential to improve global well-being.
+
+## 🔍 Let's Connect!
+I'm eager to expand my skill set, explore fresh opportunities, and collaborate with fellow tech enthusiasts. Let's connect and share ideas to drive meaningful change through technology! 🚀
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/resmit-dholariya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/resmit_dholariya_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/resmit-dholariya) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@resmit-dholariya) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/resmit-dholariya) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/resmit-dholariya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/resmit-dholariya) 
