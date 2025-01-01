@@ -4,9 +4,6 @@
 
 Welcome to my GitHub profile! I'm a passionate computer engineering student at Gujarat Technological University, expected to graduate in April 2026. Here's an overview of my journey:
 
-## 🌟 Google Developer Student Clubs Core Team Member
-As a core team member of Google Developer Student Clubs (DSC), I collaborate with fellow students to apply Google technologies in real-world projects. This role has been instrumental in fostering learning and innovation.
-
 ## 💻 Web Development Projects
 I’m proficient in the MERN stack (MongoDB, Express, React, Node.js) and have developed and deployed several web applications, including:
 - **Wanderlust**: A web app for travel recommendations.
