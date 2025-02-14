@@ -1,24 +1,6 @@
 # Hello, I'm Resmit Dholariya! 👋
 
 ### Full Stack Developer | DevOps | AI ML |
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=resmit-dholariya&label=Profile%20views&color=0e75b6&style=flat" alt="resmit-dholariya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=resmit-dholariya" alt="resmit-dholariya" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=resmit-dholariya&show_icons=true&locale=en&layout=compact" alt="resmit-dholariya" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=resmit-dholariya&show_icons=true&locale=en" alt="resmit-dholariya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=resmit-dholariya&" alt="resmit-dholariya" /></p>
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/resmit-dholariya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/resmit_dholariya_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/resmit-dholariya) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@resmit-dholariya) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/resmit-dholariya) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/resmit-dholariya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/resmit-dholariya) 
